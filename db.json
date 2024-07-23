@@ -4,21 +4,21 @@
         "id": "1",
         "title": "فیلیموتور",
         "href": "./index.html",
-        "src": "./icons/flame.svg",
+        "src": "./assets/icons/flame.svg",
         "alt": "nav_svg1"
       },
       {
         "id": "2",
         "title": "فیلیمومدرسه",
         "href": "./index.html",
-        "src": "./icons/filimo-school.svg",
+        "src": "./assets/icons/filimo-school.svg",
         "alt": "nav_svg2"
       },
       {
         "id": "3",
         "title": "جستجو",
         "href": "./index.html",
-        "src": "./icons/search.svg",
+        "src": "./assets/icons/search.svg",
         "alt": "nav_svg3"
       }
     ],
