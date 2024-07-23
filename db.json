@@ -367,6 +367,75 @@
         "question": "از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟",
         "answer": "برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
       }
-    ]
+    ],
+    "onlineStreams": [
+    {
+      "id": "1",
+      "name": "پالتو شتری",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_147944_175967.jpg?width=300&quality=85&secret=Q20kuTYw9aUkmiMWaHTy3Q"
+    },
+    {
+      "id": "2",
+      "name": "ستون 14",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_148098_181296.jpg?width=300&quality=85&secret=LycjHGNvfdk8MwE-izumpw"
+    },
+    {
+      "id": "1",
+      "name": "روز ششم",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_147582_169763.jpg?width=300&quality=85&secret=f74uo2qRu14YJG52u-btXg"
+    }
+  ],
+  "recommendMovies": [
+    {
+      "id": "1",
+      "name": "ستون 14",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_148098_181296.jpg?width=300&quality=85&secret=LycjHGNvfdk8MwE-izumpw"
+    },
+    {
+      "id": "2",
+      "name": "روز ششم",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_147582_169763.jpg?width=300&quality=85&secret=f74uo2qRu14YJG52u-btXg"
+    },
+    {
+      "id": "3",
+      "name": "گیجگاه",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_145894_154677.jpg?width=300&quality=85&secret=XSRlIucyLUrVQaRh0XofBQ"
+    },
+    {
+      "id": "4",
+      "name": "منشی مخصوص من",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_144353_163216.jpg?width=300&quality=85&secret=SRaL_fetHdel5Xjh9Qgmzg"
+    },
+    {
+      "id": "5",
+      "name": "هاوایی",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_146824_164351.jpg?width=300&quality=85&secret=MPioJuNtELPpkFm11bQlyA"
+    },
+    {
+      "id": "6",
+      "name": "در مدت معلوم",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_21118_1-b.jpg?width=300&quality=85&secret=vqXmRXPWpulX4sFGklyJFg"
+    },
+    {
+      "id": "7",
+      "name": "هفت معکوس",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_17810_163444.jpg?width=300&quality=85&secret=oZUCM-ZKjN79Mr8xtJHxGg"
+    },
+    {
+      "id": "8",
+      "name": "تخته گاز",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_23554_165175.jpg?width=300&quality=85&secret=_KstUhe0WiRHMF6daeGV_w"
+    },
+    {
+      "id": "9",
+      "name": "لونه نبور",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_14930_24790-b.jpg?width=300&quality=85&secret=VIWEVxdTczBa0R_AkyVOng"
+    },
+    {
+      "id": "10",
+      "name": "تگزاس 1",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_17695_1-b.jpg?width=300&quality=85&secret=AbRAdI6lUCjM73g319fzNw"
+    }
+  ]
   }
   
